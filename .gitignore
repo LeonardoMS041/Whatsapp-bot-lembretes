@@ -1,0 +1,10 @@
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Arquivo de credenciais
+.env
+
+# Arquivos temporários
+*.pyc
+*.log
